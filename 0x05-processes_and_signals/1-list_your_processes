@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-#disauxflays a list of currently running processes
+#displays a list of currently running processes
 
-ps -ef
+ps -auxf
