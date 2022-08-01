@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-# displys 'best school' 10 times
+# displays 'best school' 10 times
 
-count = 0
+count=0
 
 while [ $count -lt 10 ]
 do
