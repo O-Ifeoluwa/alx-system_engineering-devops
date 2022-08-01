@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# displays 'best school' 10 times
+# displys 'best school' 10 times
 
 count = 0
 
